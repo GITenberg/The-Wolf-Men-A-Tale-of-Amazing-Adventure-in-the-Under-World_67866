@@ -1,5 +1,8 @@
 _repo: The-Wolf-Men-A-Tale-of-Amazing-Adventure-in-the-Under-World_67866
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67866-h/images/cover.jpg
 creator:
   author:
     agent_name: Powell, David Franklin
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54500
     wikipedia: https://en.wikipedia.org/wiki/David_Franklin_Powell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67866#The-Wolf-Men-A-Tale-of-Amazing-Adventure-in-the-Under-World
 gutenberg_issued: '2022-04-18'
 identifiers:
   gutenberg: '67866'
